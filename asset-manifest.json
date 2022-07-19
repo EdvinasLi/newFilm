@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filmai/static/css/main.83b510bf.css",
+    "main.js": "/filmai/static/js/main.346959b0.js",
+    "index.html": "/filmai/index.html",
+    "main.83b510bf.css.map": "/filmai/static/css/main.83b510bf.css.map",
+    "main.346959b0.js.map": "/filmai/static/js/main.346959b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b510bf.css",
+    "static/js/main.346959b0.js"
+  ]
+}
